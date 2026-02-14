@@ -1,16 +1,15 @@
-## Hi there 👋
+# 1R1an1
 
-<!--
-**1R1an1/1R1an1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador por hobby. Desarrollo apps en **C# (WPF/.NET Framework 4.8)** y **Kotlin (Android Studio, aun en aprendizage)**
 
-Here are some ideas to get you started:
+## 🚀 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Games Launcher](https://github.com/1R1an1/Games_Launcher)** – Launcher de juegos en WPF con gestión y descargas de archivos (activo).
+- **[RSM](https://github.com/1R1an1/RSM)** – Es una herramenta para gestionar partidas del juego rain world (cancelado, sin planes de continuar)
+
+## 🛠 Habilidades
+
+- Lenguajes: C# (intermedio), Kotlin (basico)
+- Frameworks: WPF, .NET Framework 4.8
+- UI: XAML (intermedio), XML (basico) 
+- He creado principalmente apps de escritorio y pocas apps móviles
